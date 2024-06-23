@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Simple-landing-tm8/static/css/main.1af34866.css",
+    "main.js": "/Simple-landing-tm8/static/js/main.ee1bbe1b.js",
+    "static/js/453.2e5fbe90.chunk.js": "/Simple-landing-tm8/static/js/453.2e5fbe90.chunk.js",
+    "static/media/Bruce2.png": "/Simple-landing-tm8/static/media/Bruce2.4a79e4a3808e08b04064.png",
+    "static/media/bruce.png": "/Simple-landing-tm8/static/media/bruce.d0d7927c72039fa5996d.png",
+    "static/media/Bruce-personal.png": "/Simple-landing-tm8/static/media/Bruce-personal.8e1fa66ca1ba829a466c.png",
+    "static/media/Silver- Human-Robot.png": "/Simple-landing-tm8/static/media/Silver- Human-Robot.85876aba258282b82023.png",
+    "static/media/blue-body.png": "/Simple-landing-tm8/static/media/blue-body.1e966559ae9ac516841d.png",
+    "static/media/Robot-Golden.jpg": "/Simple-landing-tm8/static/media/Robot-Golden.f3bae528bbd47a26768b.jpg",
+    "static/media/SilverFace.jpg": "/Simple-landing-tm8/static/media/SilverFace.d4e31d3e659f97f8333c.jpg",
+    "static/media/silverhuman.jpg": "/Simple-landing-tm8/static/media/silverhuman.5c4a9b781b92522c8400.jpg",
+    "static/media/Robot6.jpg": "/Simple-landing-tm8/static/media/Robot6.4b501728ad81a9a05007.jpg",
+    "static/media/Robot4.jpg": "/Simple-landing-tm8/static/media/Robot4.f2ca437f17726fc9391a.jpg",
+    "static/media/Robot5.jpg": "/Simple-landing-tm8/static/media/Robot5.ad5bcc265b99c57ed202.jpg",
+    "static/media/Robot3.jpg": "/Simple-landing-tm8/static/media/Robot3.67213839fad060978d49.jpg",
+    "static/media/Robot1.jpg": "/Simple-landing-tm8/static/media/Robot1.c12d0f7be71edb4670af.jpg",
+    "static/media/Robot2.jpg": "/Simple-landing-tm8/static/media/Robot2.37e268e408f46ef621d1.jpg",
+    "static/media/messenger.png": "/Simple-landing-tm8/static/media/messenger.738d1b58f56615fe8b4f.png",
+    "static/media/Teamm8-logo.webp": "/Simple-landing-tm8/static/media/Teamm8-logo.8108222c6d96ea3c66c9.webp",
+    "static/media/instagram.png": "/Simple-landing-tm8/static/media/instagram.28944b9a16197e849f88.png",
+    "static/media/whatsapp.png": "/Simple-landing-tm8/static/media/whatsapp.c664b8daf06be1bdf3b9.png",
+    "static/media/CRM-logos.png": "/Simple-landing-tm8/static/media/CRM-logos.c7f89df9ceb62cf95529.png",
+    "static/media/diamond.png": "/Simple-landing-tm8/static/media/diamond.05d1edd1a0258d1f1499.png",
+    "index.html": "/Simple-landing-tm8/index.html",
+    "main.1af34866.css.map": "/Simple-landing-tm8/static/css/main.1af34866.css.map",
+    "main.ee1bbe1b.js.map": "/Simple-landing-tm8/static/js/main.ee1bbe1b.js.map",
+    "453.2e5fbe90.chunk.js.map": "/Simple-landing-tm8/static/js/453.2e5fbe90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1af34866.css",
+    "static/js/main.ee1bbe1b.js"
+  ]
+}
